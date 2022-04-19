@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Documentation Passion Web
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Objectif :
+Réaliser une documentation en ligne des bonnes pratiques chez Passion Web
 
-Read the tutorial here:
+Basé sur https://docs.readthedocs.io/en/stable/tutorial/
 
-https://docs.readthedocs.io/en/stable/tutorial/
